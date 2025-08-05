@@ -77,6 +77,6 @@ Based on the analysis, the following recommendations can help drive future growt
 
 ## 7. ✍️ About Me
 
-- 👩 **Mariam Hanafy**
+- **Mariam Hanafy**
 - 📧 **Email:** mariaam.mohammed4@gmail.com
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/mariamhanafy
